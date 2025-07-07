@@ -6,7 +6,7 @@ window {
 }
 button {
     color: #e0def4;
-	background-color: #26233a;
+	background-color: rgba(38, 35, 58, 0.8);
 	border-style: solid;
 	border-width: 2px;
 	background-repeat: no-repeat;
@@ -15,7 +15,7 @@ button {
 }
 
 button:hover {
-	background-color: #6e6a86;
+	background-color: rgba(110, 106, 134, 0.8);
 	outline-style: none;
 }
 
